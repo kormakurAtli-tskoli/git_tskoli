@@ -23,3 +23,8 @@ while valmynd != 4:
             margfeldi = margfeldi * tala
         print("Summa talnanna er",summa,"\nMargfeldi talnanna er",margfeldi)
         print(" ")
+
+    if valmynd == 2:
+        fornafn = input("Fornafn: ")
+        eftirnafn = input("Eftirnafn:")
+        print("Halló",fornafn,eftirnafn)
