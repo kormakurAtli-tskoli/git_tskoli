@@ -34,3 +34,6 @@
 					= Working directory 	> Staðurinn sem er tengdur við repositoryið, sem sagt local mappan þar sem allt er
 					  Staging area 		> skrá sem heldur utan um breytingar þangað til þú committar þær
 					  Repository 		> Repository er staðurinn þar sem skrárnar eru geymdar á github
+
+8.	Hvenær er sniðugt að nota greinar (branches)?
+					= Þegar þarf að finna eldri útgáfu af verkefninu, eða útgáfu sem er ekki jafn kláruð og hin núverandi
