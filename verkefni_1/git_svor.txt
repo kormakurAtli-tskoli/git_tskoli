@@ -29,3 +29,8 @@
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 					= Þegar hefur verið gert patch, lítið fix eða bara við allar breytingar sem skipta máli
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+					= Working directory 	> Staðurinn sem er tengdur við repositoryið, sem sagt local mappan þar sem allt er
+					  Staging area 		> skrá sem heldur utan um breytingar þangað til þú committar þær
+					  Repository 		> Repository er staðurinn þar sem skrárnar eru geymdar á github
