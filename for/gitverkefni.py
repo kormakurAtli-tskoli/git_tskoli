@@ -28,3 +28,25 @@ while valmynd != 4:
         fornafn = input("Fornafn: ")
         eftirnafn = input("Eftirnafn:")
         print("Halló",fornafn,eftirnafn)
+
+    if valmynd == 3:
+        upperCounter = 0
+        lowerCounter = 0
+        lowerAfterUpperCounter = 0
+        texti = input("Sláðu inn texta: ")
+        for i in texti:
+            #Ef það er bil, þá set ég fyrri staf sem lowercase o, svo forritið skynji það ekki sem uppercase
+            if i == " ":
+                fyrriStafur = "o"
+            elif i.isupper():
+                upperCounter = upperCounter + 1
+                fyrriStafur = i
+                print(i)
+            elif i.islower():
+                lowerCounter = lowerCounter + 1
+                if fyrriStafur.isupper():
+                    print("w")
+                    lowerAfterUpperCounter = lowerAfterUpperCounter + 1
+                fyrriStafur = i
+                print(i)
+        print(upperCounter,"hástafir, og",lowerCounter,"lágstafir. ",lowerAfterUpperCounter,"lágstafir komu strax eftir hástaf")
