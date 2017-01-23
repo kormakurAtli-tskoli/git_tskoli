@@ -13,3 +13,9 @@
 	git status	= sýnir statusinn á verkefninu, commitum og svoleiðis
 	git diff	= sýnir breytingar á milli committum
 	git checkout	= breyta á milli greina eða endurheimta skrár
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 			= sýnir breytingar á committum og því sem hefur verið breytt
+	b) git diff --staged 		= sýnir muninn á því sem þú ert búinn að gera og því sem þú ert ekki búinn að cista/committa
+	c) git diff commit1 commit2	= ber saman og sýnir muninn á tveiumr ákveðnum committum
+
