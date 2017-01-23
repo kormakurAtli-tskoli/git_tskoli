@@ -1,1 +1,1 @@
-# gso_2017v
+# Git_tskoli
