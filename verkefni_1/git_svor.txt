@@ -26,3 +26,6 @@
 					= > að geta deilt verkefninu með öðru fólki án vesens
 					  > að margir geti unnið að verkefninu og breytt hlutum on the go, eða hvar sem er
 					  > það heldur utan um allar breytingar og hægt er að leiðrétta mistök
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+					= Þegar hefur verið gert patch, lítið fix eða bara við allar breytingar sem skipta máli
