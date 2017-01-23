@@ -21,3 +21,8 @@
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 					= hugbúnaður sem sér um að halda utan um mismunandi útgáfur og breytingar á verkefnum
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+					= > að geta deilt verkefninu með öðru fólki án vesens
+					  > að margir geti unnið að verkefninu og breytt hlutum on the go, eða hvar sem er
+					  > það heldur utan um allar breytingar og hægt er að leiðrétta mistök
