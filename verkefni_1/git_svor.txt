@@ -37,3 +37,6 @@
 
 8.	Hvenær er sniðugt að nota greinar (branches)?
 					= Þegar þarf að finna eldri útgáfu af verkefninu, eða útgáfu sem er ekki jafn kláruð og hin núverandi
+
+9.	Hver fann upp GIT?
+					= Linus Torvalds
