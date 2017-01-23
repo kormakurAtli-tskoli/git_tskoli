@@ -13,3 +13,13 @@ while valmynd != 4:
     # Notandi slær inn valmöguleikann sem hann vill
     valmynd = int(input("Sláðu inn valmöguleikann sem þú vilt: "))
     print(" ")
+
+    if valmynd == 1:
+        summa = 0
+        margfeldi = 1
+        for i in range(2):
+            tala = int(input("Sláðu inn tölu: "))
+            summa = summa + tala
+            margfeldi = margfeldi * tala
+        print("Summa talnanna er",summa,"\nMargfeldi talnanna er",margfeldi)
+        print(" ")
