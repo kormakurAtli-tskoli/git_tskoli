@@ -19,3 +19,5 @@
 	b) git diff --staged 		= sýnir muninn á því sem þú ert búinn að gera og því sem þú ert ekki búinn að cista/committa
 	c) git diff commit1 commit2	= ber saman og sýnir muninn á tveiumr ákveðnum committum
 
+4. 	Hvað er útgáfustýring (e.version control)? 
+					= hugbúnaður sem sér um að halda utan um mismunandi útgáfur og breytingar á verkefnum
