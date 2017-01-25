@@ -41,12 +41,9 @@ while valmynd != 4:
             elif i.isupper():
                 upperCounter = upperCounter + 1
                 fyrriStafur = i
-                print(i)
             elif i.islower():
-                lowerCounter = lowerCounter + 1
+		lowerCounter = lowerCounter + 1
                 if fyrriStafur.isupper():
-                    print("w")
                     lowerAfterUpperCounter = lowerAfterUpperCounter + 1
                 fyrriStafur = i
-                print(i)
         print(upperCounter,"hástafir, og",lowerCounter,"lágstafir. ",lowerAfterUpperCounter,"lágstafir komu strax eftir hástaf")
