@@ -1,6 +1,7 @@
+#Kormákur Atli Unnþórsson
+#1.2.2017
 #Gitverkefni
 
-#Valmynd
 #Valmynd
 valmynd = 0
 while valmynd != 4:
